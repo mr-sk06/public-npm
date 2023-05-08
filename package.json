@@ -1,6 +1,6 @@
 {
-  "name": "@mr-sk06/public",
-  "version": "1.0.0",
+  "name": "@mr-sk06/public-npm",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
